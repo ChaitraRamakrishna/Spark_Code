@@ -1,0 +1,8 @@
+[0825/170553.137:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: The paging file is too small for this operation to complete. (0x800705AF)
+[0825/170553.138:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0825/170553.138:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0825/170553.192:ERROR:process_info.cc(359)] UncheckedAllocate
+[0918/231431.331:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: The paging file is too small for this operation to complete. (0x800705AF)
+[0918/231431.364:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[0918/231431.364:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[0918/231431.397:ERROR:process_info.cc(359)] UncheckedAllocate
